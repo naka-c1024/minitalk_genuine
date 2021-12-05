@@ -12,6 +12,8 @@
 
 #include "minitalk.h"
 
+// big-endian format
+
 static void	ft_kill(int	flag, pid_t pid)
 {
 	if (flag == ON)

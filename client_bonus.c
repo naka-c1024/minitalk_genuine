@@ -12,6 +12,8 @@
 
 #include "minitalk_bonus.h"
 
+// big-endian format
+
 static void	handler(int sig)
 {
 	(void)sig;
